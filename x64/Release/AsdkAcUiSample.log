@@ -1,0 +1,69 @@
+﻿生成启动时间为 2023/11/7 9:58:20。
+     1>项目“G:\陈应显\程序\3DErrors\AsdkAcUiSample.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2016\inc" /I"C:\ObjectARX 2016\inc-x64" /Iinc /I"..\..\..\inc-x64" /I"..\..\..\..\inc-x64" /I"..\..\..\..\..\inc-x64" /Zi /nologo /W3 /WX- /O2 /Ob1 /Ot /Oy /GL /D NDEBUG /D WIN32 /D _WINDOWS /D _AFXEXT /D ACRXAPP /D _NDEBUG=1 /D NDEBUG=1 /D _WIN32_IE=0x0600 /D WIN /D WIN32 /D _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1 /D _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_COUNT=1 /D _AFXDLL /D UNICODE /D _UNICODE /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Release/AsdkAcUiSample.pch" /Fo".\Release/" /Fd".\Release/vc110.pdb" /Gd /TP /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2016\inc" /I"C:\ObjectARX 2016\inc-x64" /Iinc /I"..\..\..\inc-x64" /I"..\..\..\..\inc-x64" /I"..\..\..\..\..\inc-x64" /Zi /nologo /W3 /WX- /O2 /Ob1 /Ot /Oy /GL /D NDEBUG /D WIN32 /D _WINDOWS /D _AFXEXT /D ACRXAPP /D _NDEBUG=1 /D NDEBUG=1 /D _WIN32_IE=0x0600 /D WIN /D WIN32 /D _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1 /D _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_COUNT=1 /D _AFXDLL /D UNICODE /D _UNICODE /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Release/AsdkAcUiSample.pch" /Fo".\Release/" /Fd".\Release/vc110.pdb" /Gd /TP /errorReport:prompt AsdkAcUiDialogSample.cpp AsdkAcUiSample.cpp SolidMineDlg.cpp
+         AsdkAcUiDialogSample.cpp
+         AsdkAcUiSample.cpp
+     1>g:\陈应显\程序\3derrors\inc\amodeler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\body.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\entity.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\global.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\massert.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\errcodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\epsilon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\flags.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\interval.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\plane.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\point3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\vector3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\ivect3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\vector2d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\ipoint3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\ipoint2d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\ivect2d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\point2d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\transf3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\color.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\morphmap.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\darray.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\enums.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\edge.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\circle3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\line3d.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\vertex.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\face.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\surface.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\curve.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\vertsurf.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\vertdata.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\dxfinpln.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\deviat.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\util.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\check.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\陈应显\程序\3derrors\inc\callback.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>AsdkAcUiSample.cpp(158): warning C4101: “a1”: 未引用的局部变量
+     1>AsdkAcUiSample.cpp(165): warning C4101: “pPoint”: 未引用的局部变量
+     1>AsdkAcUiSample.cpp(159): warning C4101: “nten”: 未引用的局部变量
+     1>AsdkAcUiSample.cpp(314): warning C4101: “pSolid3”: 未引用的局部变量
+     1>AsdkAcUiSample.cpp(734): warning C4101: “nso”: 未引用的局部变量
+         SolidMineDlg.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(G:\陈应显\程序\3DErrors\x64\Release\AsdkAcUiSample.arx) does not match the Linker's OutputFile property value (G:\陈应显\程序\3DErrors\x64\3derros.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(AsdkAcUiSample) does not match the Linker's OutputFile property value (3derros). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:".\x64\3derros.arx" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\ObjectARX 2016\lib-x64" /LIBPATH:"lib-x64" /LIBPATH:"..\..\..\lib-x64" /LIBPATH:"..\..\..\..\lib-x64" /LIBPATH:"..\..\..\..\..\lib-x64" ac1st20.lib acad.lib acapp.lib acapp_crx.lib accore.lib acdb20.lib acdbmgd.lib acge20.lib acgiapi.lib acui20.lib adui20.lib aseapi20.lib asiapi20.lib axdb.lib rxapi.lib aecmodeler.lib AsdkBodyObj.lib WinMM.Lib accore.lib acad.lib acui20.lib adui20.lib ac1st20.lib acdb20.lib acge20.lib acgiapi.lib acISMobj20.lib rxapi.lib /DEF:".\AsdkAcUiSample.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Release/AsdkAcUiSample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /BASE:"0x1c000000" /DYNAMICBASE /IMPLIB:".\Release/AsdkAcUiSample.lib" /MACHINE:X64 /DLL x64\Release\AsdkAcUiSample.res
+         .\Release/AsdkAcUiDialogSample.obj
+         .\Release/AsdkAcUiSample.obj
+         .\Release/SolidMineDlg.obj
+         .\Release/StdAfx.obj
+            正在创建库 .\Release/AsdkAcUiSample.lib 和对象 .\Release/AsdkAcUiSample.exp
+         正在生成代码
+         已完成代码的生成
+     1>rxapi.lib(libinit.obj) : warning LNK4099: 未找到 PDB“rxapi_cl.pdb”(使用“rxapi.lib(libinit.obj)”或在“G:\陈应显\程序\3DErrors\Release\rxapi_cl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         AsdkAcUiSample.vcxproj -> G:\陈应显\程序\3DErrors\x64\Release\AsdkAcUiSample.arx
+     1>已完成生成项目“G:\陈应显\程序\3DErrors\AsdkAcUiSample.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.03
